@@ -1,0 +1,12 @@
+{
+  "name": "issue-35661",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
